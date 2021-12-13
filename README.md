@@ -1,5 +1,2 @@
-## Group project for COMM318 _Stories from data_ (Fall 21)
-
-* You will edit this file to act as the main index page for your project 
-
-* Change the title and write an overview of your project and description of the content.
+## Pitch Perfect - Exploring Major League Baseball Pitcher Data
+One of the most valuable assets in all of sports is a quality starting pitcher. More than a star quarterback or a stud point guard, a true ace pitcher can almost entirely dictate a win or a loss for his team. Finding these excellent  pitchers can be difficult to find though - they don't exact grow on trees. We have set out to discover which attributes and factors lead to MLB pitcher success. 
