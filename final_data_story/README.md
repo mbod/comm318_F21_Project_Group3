@@ -1,12 +1,9 @@
-## Blog post of your data story for COMM318 Group Project
+# Final Data Story for COMM318 Group Project
 
-* This folder should contain the files that contain the output of all your data analysis. 
+### This is the folder that contains the final data story as the only file within it 
 
-* You should create an engaging data blog that stands alone (i.e. it doesn't require the reader to look over all your analysis notebooks). 
+Welcome to the final data story folder. In this folder, you can find the final data story, in which we look into what exactly makes a Major League Baseball pitcher effective, how teams should evaluate pitchers, and so much more. Even for non-baseball fans, the data story will be something you can enjoy and understand, as all terms are thoroughly explained.
 
-* Update this README file to describe the presentation.
+With that, Group 3 — The Baseball Group — presents...
 
-
-
-
-
+### _Pitch Perfect — Exploring Major League Baseball Pitcher Data_
