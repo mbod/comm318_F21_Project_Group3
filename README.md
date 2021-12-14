@@ -1,3 +1,4 @@
+
 # Pitch Perfect — Exploring Major League Baseball Pitcher Data
 
 ### Welcome to Group 3's presentation on MLB pitchers and what make them effective!
